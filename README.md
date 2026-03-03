@@ -1,4 +1,4 @@
-# 🚀 Playwright TypeScript Automation Framework
+# 🚀 Playwright TypeScript Automation Testing + API Testing 
 
 A robust end-to-end test automation framework built using **Playwright + TypeScript** following best practices and scalable design principles.
 
