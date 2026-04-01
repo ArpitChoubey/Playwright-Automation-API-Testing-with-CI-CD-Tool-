@@ -1,45 +1,78 @@
 🚀 Playwright TypeScript Automation Testing + API Testing Framework
 
-> 🔥 A powerful, scalable, and production-ready **End-to-End Automation Framework** built using Playwright + TypeScript covering **UI Testing, API Testing, and Visual Testing**.
+🔥 A powerful, scalable, and production-ready End-to-End Automation Framework built using Playwright + TypeScript covering UI Testing, API Testing, and Visual Testing.
 
----
 
-## 📌 Project Overview
+📌 Project Overview
 
-This repository demonstrates a **real-world automation framework** designed for modern applications with:
+This repository demonstrates a real-world automation framework designed for modern applications with:
 
-- ✅ UI Automation Testing  
-- ✅ API Automation Testing  
-- ✅ Visual Testing (Snapshot Comparison)  
-- ✅ Data-Driven Testing  
-- ✅ Parallel Execution  
-- ✅ Reporting & Debugging  
+✅ UI Automation Testing
+✅ API Automation Testing
+✅ Visual Testing (Snapshot Comparison)
+✅ Data-Driven Testing
+✅ Parallel Execution
+✅ Reporting & Debugging
 
-💡 Built using **industry best practices followed by top product companies**
+💡 Built using industry best practices followed by top product-based companies
 
----
 
-## 🧠 Why This Project Stands Out (For Recruiters 🚀)
+🧠 Why This Project Stands Out 
 
-✔ Covers **UI + API + Visual Testing (rare combination)**  
-✔ Real-world test scenarios (not beginner scripts)  
-✔ Strong **Page Object Model (POM)** implementation  
-✔ Clean, scalable & reusable framework  
-✔ Demonstrates **SDET-level architecture**  
-✔ CI/CD ready  
+✔ Covers UI + API + Visual Testing (rare combination)
+✔ Real-world test scenarios (not beginner scripts)
+✔ Strong Page Object Model (POM) implementation
+✔ Clean, scalable & reusable framework
+✔ Demonstrates SDET-level architecture
+✔ Fully CI/CD Ready with Jenkins Integration
 
----
 
-## 📌 Tech Stack
+⚙️ CI/CD Integration with Jenkins 🚀
 
-- 🎭 Playwright  
-- 🟦 TypeScript  
-- 🟢 Node.js  
-- 📦 npm  
-- 📊 Allure Reporting  
-- 📑 HTML Reporter  
-- 🔄 Parallel Execution  
-- 📸 Screenshots & Tracing  
+This framework is integrated with Jenkins to enable continuous testing and seamless automation pipeline execution.
+
+🔹 Key Capabilities:
+Automated test execution via Jenkins pipeline
+CI/CD workflow setup for build & test stages
+Parallel test execution triggered via Jenkins
+Allure & HTML reports generation post execution
+Supports scheduled & on-demand runs
+🖼️ Jenkins Execution Snapshots
+
+To demonstrate real-world CI/CD implementation, Jenkins setup and execution screenshots are included:
+
+📌 Jenkins Pipeline / Execution Status
+File: Jenkins Status.png
+Shows build execution status and pipeline results
+📌 Jenkins Job Configuration
+File: Jenkins.png
+Displays job setup and configuration details
+📌 Jenkins Workspace Setup
+File: Jenkins Workspace.png
+Demonstrates project workspace and build environment
+
+📸 These screenshots validate hands-on CI/CD experience using Jenkins, showcasing how automation is executed in a real pipeline.
+
+📌 Tech Stack
+🎭 Playwright
+🟦 TypeScript
+🟢 Node.js
+📦 npm
+📊 Allure Reporting
+📑 HTML Reporter
+🔄 Parallel Execution
+📸 Screenshots, Tracing & Debugging
+
+🚀 Key Features
+Scalable Page Object Model (POM) design
+API testing using Playwright request context
+Visual testing using snapshot comparison
+Data-driven testing support
+Cross-browser execution
+Parallel test execution
+Rich reporting (Allure + HTML)
+CI/CD pipeline integration (Jenkins)
+
 
 ---
 
