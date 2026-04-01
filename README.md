@@ -1,4 +1,4 @@
-🚀 Playwright TypeScript Automation Testing + API Testing Framework
+🚀 Scalable-playwright api test framework CI/CD
 
 🔥 A powerful, scalable, and production-ready End-to-End Automation Framework built using Playwright + TypeScript covering UI Testing, API Testing, and Visual Testing.
 
